@@ -97,3 +97,9 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+
+
+
+AWS_ACCESS_KEY_ID - AKIA4SQDHPMDPYLZMJ7V
+AWS_SECRET_ACCESS_KEY = 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
