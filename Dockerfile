@@ -1,6 +1,7 @@
 FROM gatsbyjs/gatsby:onbuild as build
 
 FROM gatsbyjs/gatsby
+RUN npm run build
 COPY public /pub
 
 
